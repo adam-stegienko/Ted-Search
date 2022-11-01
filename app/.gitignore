@@ -25,4 +25,4 @@
 /.nb-gradle/
 
 ### AWS Configuration ###
-aws_configure.sh
+# aws_configure.sh
